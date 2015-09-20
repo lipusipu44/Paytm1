@@ -7,9 +7,10 @@ import org.testng.annotations.Test;
 public class FacebookSearch {
 	
 	@Test
-	public void googleLink(){
+	public void googleLink() throws InterruptedException{
 		WebDriver driver=new FirefoxDriver();
 		driver.get("http://www.facebook.com");
+		Thread.sleep(5000);
 	}
 
 }
