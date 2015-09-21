@@ -11,7 +11,7 @@ public class FacebookSearch {
 		WebDriver driver=new FirefoxDriver();
 		driver.get("http://www.facebook.com");
 		Thread.sleep(5000);
-		System.out.println("printing the git message");
+		System.out.println("printing the git messages");
 	}
 
 }
