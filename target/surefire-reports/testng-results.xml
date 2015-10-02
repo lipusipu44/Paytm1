@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite1" duration-ms="19158" started-at="2015-09-20T12:48:01Z" finished-at="2015-09-20T12:48:20Z">
+  <suite name="Suite1" duration-ms="11177" started-at="2015-10-02T14:39:27Z" finished-at="2015-10-02T14:39:38Z">
     <groups>
     </groups>
-    <test name="Regression1" duration-ms="19158" started-at="2015-09-20T12:48:01Z" finished-at="2015-09-20T12:48:20Z">
+    <test name="Regression1" duration-ms="11177" started-at="2015-10-02T14:39:27Z" finished-at="2015-10-02T14:39:38Z">
       <class name="testClasses.FacebookSearch">
-        <test-method status="PASS" signature="googleLink()" name="googleLink" duration-ms="19127" started-at="2015-09-20T12:48:01Z" finished-at="2015-09-20T12:48:20Z">
+        <test-method status="PASS" signature="googleLink()" name="googleLink" duration-ms="11161" started-at="2015-10-02T14:39:27Z" finished-at="2015-10-02T14:39:38Z">
         </test-method>
       </class>
     </test>
