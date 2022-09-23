@@ -7,6 +7,6 @@ public class FacebookPageObject {
 
 	public void pageCaller(){
 		WebDriver driver=new FirefoxDriver();
-		driver.get("http://www.facebook.com");
+		driver.get("https://www.facebook.com");
 	}
 }
